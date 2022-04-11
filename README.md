@@ -5,11 +5,11 @@ Gathered links relating to sound and developing.
 
 
 #### Code style and best practices
-- (https://github.com/cpp-best-practices/cppbestpractices/blob/master/00-Table_of_Contents.md)[Lefticus C++ best practices].
-- https://juce.com/discover/stories/coding-standards - JUCE coding standards.
+* [Lefticus C++ best practices](https://github.com/cpp-best-practices/cppbestpractices/blob/master/00-Table_of_Contents.md).
+* [JUCE coding standards](https://juce.com/discover/stories/coding-standards).
 
 ### Project managment
-- https://www.notion.so/projects - Project and task management.
+* [Notion](https://www.notion.so/projects) - Project and task management.
 
 #### Graphical utilities
 
