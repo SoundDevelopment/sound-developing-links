@@ -19,3 +19,6 @@ Gathered links relating to sound and developing.
 * [Lucidchart](https://www.lucidchart.com/pages/) - Diagramming.
 * [Excalidraw](https://excalidraw.com/) - Sketching.
 * [ASCIIFlow](https://asciiflow.com/#/) - ASCII diagramming.
+
+#### Design patterns:
+* [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book.
