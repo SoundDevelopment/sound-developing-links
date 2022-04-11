@@ -21,4 +21,4 @@ Gathered links relating to sound and developing.
 * [ASCIIFlow](https://asciiflow.com/#/) - ASCII diagramming.
 
 #### Design patterns:
-* [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book.
+* [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book by Robert Nystrom.
