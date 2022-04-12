@@ -20,5 +20,16 @@ Gathered links relating to sound and developing.
 * [Excalidraw](https://excalidraw.com/) - Sketching.
 * [ASCIIFlow](https://asciiflow.com/#/) - ASCII diagramming.
 
+
 #### Design patterns:
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book by Robert Nystrom.
+
+
+#### C++ Tips and Tricks
+* [C++ Tip of the Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week)
+* [Learn C++](https://www.learncpp.com/)
+
+
+#### Audio DSP:
+* [Musicdsp.org](https://www.musicdsp.org/en/latest/) - Collection of algorithms, gathered for the music dsp community.
+* [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) - Book by Steven W. Smith, Ph.D.
