@@ -3,8 +3,9 @@
 
 Gathered links relating to sound and developing.
 
+## Online Utilities
 
-#### Onine code utilities:
+#### Code utilities:
 * [Compiler Explorer](https://godbolt.org/) - Online compiler.
 * [Wandbox](https://wandbox.org/) - Online compiler.
 * [Coliru](http://coliru.stacked-crooked.com/) - Online compile, link and run.
@@ -15,8 +16,7 @@ Gathered links relating to sound and developing.
 #### Project managment:
 * [Notion](https://www.notion.so/projects) - Project and task management.
 
-
-#### Online graphical utilities:
+#### Graphical utilities:
 * [Lucidchart](https://www.lucidchart.com/pages/) - Diagramming.
 * [Excalidraw](https://excalidraw.com/) - Sketching.
 * [ASCIIFlow](https://asciiflow.com/#/) - ASCII diagramming.
@@ -24,9 +24,7 @@ Gathered links relating to sound and developing.
 * [Desmos](https://www.desmos.com/) - Mathematic graphing utility.
 
 
-#### Design patterns:
-* [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book by Robert Nystrom.
-
+## Coding Information
 
 #### C++ code style and best practices:
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
@@ -40,6 +38,12 @@ Gathered links relating to sound and developing.
 * [C++ Tip of the Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week).
 * [Learn C++](https://www.learncpp.com/).
 
+
+#### Design patterns:
+* [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book by Robert Nystrom.
+
+
+## Audo Information
 
 #### Audio DSP:
 * [Musicdsp.org](https://www.musicdsp.org/en/latest/) - Collection of algorithms, gathered for the music dsp community.
