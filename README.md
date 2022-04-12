@@ -3,6 +3,8 @@
 
 Gathered links relating to sound and developing.
 
+
+
 ## Online Utilities
 
 #### Code utilities:
@@ -24,6 +26,7 @@ Gathered links relating to sound and developing.
 * [Desmos](https://www.desmos.com/) - Mathematic graphing utility.
 
 
+
 ## Coding Information
 
 #### C++ code style and best practices:
@@ -41,6 +44,7 @@ Gathered links relating to sound and developing.
 
 #### Design patterns:
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book by Robert Nystrom.
+
 
 
 ## Audo Information
