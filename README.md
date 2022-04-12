@@ -24,7 +24,7 @@ Gathered links relating to sound and developing.
 * [Waveformer](https://www.misha.studio/waveformer/) - A simple web app for visualizing audio waveforms in vector (svg) format. 
 * [Desmos](https://www.desmos.com/) - Mathematic graphing utility.
 
-<br><br>
+<br>
 
 ## Coding Information
 
@@ -44,7 +44,7 @@ Gathered links relating to sound and developing.
 #### Design patterns:
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book by Robert Nystrom.
 
-<br><br>
+<br>
 
 ## Audo Information
 
