@@ -2,8 +2,8 @@
 ###### *by Marcel Huibers | [Sound Development](https://www.sounddevelopment.nl) 2022*
 
 Gathered links relating to sound and developing.
+<br><br>
 
-<br>
 ## Online Utilities
 
 #### Code utilities:
@@ -24,7 +24,8 @@ Gathered links relating to sound and developing.
 * [Waveformer](https://www.misha.studio/waveformer/) - A simple web app for visualizing audio waveforms in vector (svg) format. 
 * [Desmos](https://www.desmos.com/) - Mathematic graphing utility.
 
-<br>
+<br><br>
+
 ## Coding Information
 
 #### C++ code style and best practices:
@@ -43,7 +44,8 @@ Gathered links relating to sound and developing.
 #### Design patterns:
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book by Robert Nystrom.
 
-<br>
+<br><br>
+
 ## Audo Information
 
 #### Audio DSP:
