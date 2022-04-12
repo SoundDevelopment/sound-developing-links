@@ -3,7 +3,7 @@
 
 Gathered links relating to sound and developing.
 
-## Online Utilities
+### Online Utilities
 
 #### Code utilities:
 * [Compiler Explorer](https://godbolt.org/) - Online compiler.
@@ -24,7 +24,7 @@ Gathered links relating to sound and developing.
 * [Desmos](https://www.desmos.com/) - Mathematic graphing utility.
 
 
-## Coding Information
+### Coding Information
 
 #### C++ code style and best practices:
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
@@ -43,7 +43,7 @@ Gathered links relating to sound and developing.
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Book by Robert Nystrom.
 
 
-## Audo Information
+### Audo Information
 
 #### Audio DSP:
 * [Musicdsp.org](https://www.musicdsp.org/en/latest/) - Collection of algorithms, gathered for the music dsp community.
