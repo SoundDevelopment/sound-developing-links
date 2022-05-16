@@ -56,13 +56,10 @@ Gathered links relating to sound and developing.
 #### Audio DSP:
 * [Musicdsp.org](https://www.musicdsp.org/en/latest/) - Collection of algorithms, gathered for the music dsp community.
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) - Book by Steven W. Smith, Ph.D.
+* [A Lossless, Click-free, Pitchbend-able
+Delay Line Loop Interpolation Scheme](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/lossless-click-free-pitchbend-able-delay-line-loop.pdf?c=icmc;idno=bbp2372.1997.068;format=pdf)
 
 
 #### Audio Libraries:
 * [Awesome JUCE](https://github.com/sudara/awesome-juce) - An awesome list of open source JUCE libraries, plugins and utilities.
 * [Madronalib](https://github.com/madronalabs/madronalib) - C++ framework for DSP applications.
-
-
-## DSP
-* [A Lossless, Click-free, Pitchbend-able
-Delay Line Loop Interpolation Scheme](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/lossless-click-free-pitchbend-able-delay-line-loop.pdf?c=icmc;idno=bbp2372.1997.068;format=pdf)
