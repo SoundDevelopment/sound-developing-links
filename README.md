@@ -10,9 +10,14 @@ Gathered links relating to sound and developing.
 * [Compiler Explorer](https://godbolt.org/) - Online compiler.
 * [Wandbox](https://wandbox.org/) - Online compiler.
 * [Coliru](http://coliru.stacked-crooked.com/) - Online compile, link and run.
+* [C++ Shell](http://www.cpp.sh/) - Online C++ Compiler.
+* [GDB Online Debugger](https://www.onlinegdb.com/) - Online compiler and debugger tool.
 * [C++ Insights](https://cppinsights.io/) - A clang-based tool which does a source to intermediate transformation.
 * [Clang Format Configurator](https://zed0.co.uk/clang-format-configurator/) - Utilty for creating .clang-format files.
 * [replit](https://replit.com/) - Collaborative browser based IDE.
+* [C++ Build Benchmarks](https://build-bench.com/) - Tool to quickly and simply compare the build time of code snippets with various compilers.
+* [Perfbench](https://www.perfbench.com/) - Interactive online C++ code profiling tool.
+* [Quick C++ Benchmarks](https://www.quick-bench.com/) - A micro benchmarking tool intended to quickly compare the performance of two or more code snippets.
 
 #### Project managment:
 * [Notion](https://www.notion.so/projects) - Project and task management.
@@ -51,3 +56,13 @@ Gathered links relating to sound and developing.
 #### Audio DSP:
 * [Musicdsp.org](https://www.musicdsp.org/en/latest/) - Collection of algorithms, gathered for the music dsp community.
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) - Book by Steven W. Smith, Ph.D.
+
+
+#### Audio Libraries:
+* [Awesome JUCE](https://github.com/sudara/awesome-juce) - An awesome list of open source JUCE libraries, plugins and utilities.
+* [Madronalib](https://github.com/madronalabs/madronalib) - C++ framework for DSP applications.
+
+
+## DSP
+* [A Lossless, Click-free, Pitchbend-able
+Delay Line Loop Interpolation Scheme](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/lossless-click-free-pitchbend-able-delay-line-loop.pdf?c=icmc;idno=bbp2372.1997.068;format=pdf)
