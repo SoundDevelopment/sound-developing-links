@@ -59,6 +59,8 @@ Gathered links relating to sound and developing.
 * [A Lossless, Click-free, Pitchbend-able
 Delay Line Loop Interpolation Scheme](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/lossless-click-free-pitchbend-able-delay-line-loop.pdf?c=icmc;idno=bbp2372.1997.068;format=pdf)
 
+#### DSP Utilities:
+* [DSPGraphJS](https://replicataudio.com/dsptool/) - DSP prototyping.
 
 #### Audio Libraries:
 * [Awesome JUCE](https://github.com/sudara/awesome-juce) - An awesome list of open source JUCE libraries, plugins and utilities.
